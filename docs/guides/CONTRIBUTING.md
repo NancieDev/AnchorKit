@@ -29,7 +29,7 @@ By participating in this project, you agree to abide by our Code of Conduct. Ple
    ```
 3. **Add upstream remote**:
    ```bash
-   git remote add upstream https://github.com/Haroldwonder/AnchorKit.git
+   git remote add upstream https://github.com/NancieLab/AnchorKit.git
    ```
 4. **Create a feature branch** (see [Branch Naming Conventions](#branch-naming-conventions))
 
@@ -299,7 +299,7 @@ When creating a PR, please include:
 If you have questions or encounter issues:
 
 1. Check the [documentation](#existing-documentation)
-2. Search [existing issues](https://github.com/Haroldwonder/AnchorKit/issues)
+2. Search [existing issues](https://github.com/NancieLab/AnchorKit/issues)
 3. Create a new issue if needed
 
 Thank you for contributing to AnchorKit!

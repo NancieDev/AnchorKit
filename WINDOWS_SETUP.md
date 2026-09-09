@@ -113,7 +113,7 @@ Both CLIs work with AnchorKit. This guide uses `soroban` in examples; substitute
 ## Clone and Build AnchorKit
 
 ```powershell
-git clone https://github.com/Haroldwonder/AnchorKit.git
+git clone https://github.com/NancieLab/AnchorKit.git
 cd AnchorKit
 ```
 
@@ -260,4 +260,4 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ---
 
-For further help, see the [QUICK_START.md](./QUICK_START.md) guide or open an issue on the [GitHub repository](https://github.com/Haroldwonder/AnchorKit/issues).
+For further help, see the [QUICK_START.md](./QUICK_START.md) guide or open an issue on the [GitHub repository](https://github.com/NancieLab/AnchorKit/issues).

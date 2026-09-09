@@ -234,7 +234,7 @@ Part of the AnchorKit project - MIT License
 - 🚀 [Quick Start Guide](./QUICK_START.md)
 - 🏗️ [Component Structure](./COMPONENT_STRUCTURE.md)
 - 💡 [Examples](./components/ApiRequestPanel.example.tsx)
-- 🐛 [Report Issues](https://github.com/Haroldwonder/AnchorKit/issues)
+- 🐛 [Report Issues](https://github.com/NancieLab/AnchorKit/issues)
 
 ## Related Documentation
 

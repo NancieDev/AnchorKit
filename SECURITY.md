@@ -21,7 +21,7 @@ If you discover a security vulnerability in AnchorKit, please report it responsi
 
 Use GitHub's built-in private reporting feature:
 
-1. Go to the [Security tab](https://github.com/Haroldwonder/AnchorKit/security) of this repository.
+1. Go to the [Security tab](https://github.com/NancieLab/AnchorKit/security) of this repository.
 2. Click **"Report a vulnerability"**.
 3. Fill in the details and submit.
 
